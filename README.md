@@ -1,2 +1,0 @@
-# RecipeFinder
-Created with CodeSandbox
