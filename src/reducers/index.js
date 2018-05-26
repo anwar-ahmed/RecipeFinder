@@ -5,7 +5,7 @@ import { SET_RECIPIES,FAVORITE_RECIPE } from '../actions'
 function recipies( state=[], action ) {
   switch(action.type) {
     case SET_RECIPIES:
-    return action .items;
+    return action.items;
     default:
       return state;
   }
